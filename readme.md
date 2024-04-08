@@ -6,7 +6,7 @@
   - virtualenv -p python3 env
   - source ./env/bin/activate
   - deactivate
-- Install requirements.
+- Install requirements using pip install -r requirements.txt  
 - Add files of which repomap you want in test_files.
 - Pass the file name in get_rep_map.py
 - Run get_rep_map.py 
