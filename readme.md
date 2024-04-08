@@ -1,4 +1,5 @@
 - Clone the repositary.
+- cd GetRepoMap
 - Create a virtual environment. Following are steps to create environment on MacOS:
   - mkdir env_name
   - cd env_name
