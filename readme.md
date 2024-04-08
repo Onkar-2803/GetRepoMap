@@ -1,0 +1,11 @@
+- Clone the repositary.
+- Create a virtual environment. Following are steps to create environment on MacOS:
+  - mkdir env_name
+  - cd env_name
+  - virtualenv -p python3 env
+  - source ./env/bin/activate
+  - deactivate
+- Install requirements.
+- Add files of which repomap you want in test_files.
+- Pass the file name in get_rep_map.py
+- Run get_rep_map.py 
