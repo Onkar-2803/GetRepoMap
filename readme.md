@@ -10,3 +10,4 @@
 - Add files of which repomap you want in test_files.
 - Pass the file name in get_repo_map.py
 - Run get_repo_map.py 
+- If you get pkg_resources error then do: pip install setuptools
